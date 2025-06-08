@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'AppleRegular';
+    src: url('../src/assets/fonts/sf-pro-text_regular.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'AppleBold';
+    src: url('../src/assets/fonts/sf-pro-text_bold.ttf') format('ttf');
+  }
+  
+  @font-face {
+    font-family: 'AppleLight';
+    src: url('../src/assets/fonts/sf-pro-text_light.ttf') format('ttf');
+  }
+
+.body {
+    font-family: "AppleRegular", sans-serif;
+}
